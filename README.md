@@ -39,7 +39,7 @@ on its own. One click on **Sync** is the trade-off.
 ### 1. Get the files
 
 ```
-git clone https://github.com/JimmyTaylor75/wireshark-claude-bridge.git
+git clone https://github.com/<your-account>/wireshark-claude-bridge.git
 ```
 
 Or download the repository as a ZIP and extract it somewhere permanent, for example
